@@ -2,6 +2,7 @@
 // This is the entry point for this project
 
 #include <iostream>
+#include "utils.cpp"
 using namespace std;
 
 int main(){
